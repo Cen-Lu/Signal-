@@ -1,7 +1,7 @@
 # Signal 聚焦 - Minimalist Focus & Goal Tracking
 
 <div align="center">
-  <img src="https://github.com/Cen-Lu/Signal-Public/blob/main/asset/app-icon.png" width="120" height="120" alt="Signal App Icon">
+  <img src="https://github.com/Cen-Lu/Signal-Public/blob/main/asset/Signal_Logo.png" width="120" height="120" alt="Signal App Icon">
   
   **Focus on the signal, not the noise.**
   
