@@ -125,7 +125,7 @@ Traditional productivity apps try to help you manage everything. Signal is diffe
 A: Tap the 📶 button in the main view, then go to Settings → Face ID & Passcode → Allow Access When Locked → Live Activities = ON
 
 **Q: What's the difference between free and Pro?**
-A: Free tier allows 3 signals per day (5 total). Pro removes all limitations and includes future premium features.
+A: Free tier allows 3 signals per day (5 total in backlog). Pro removes all limitations and includes future premium features.
 
 **Q: Can I sync between devices?**
 A: Currently, Signal stores data locally on each device. Cross-device sync is being considered for future updates.
@@ -141,13 +141,7 @@ A: Go to Settings → Language in the app, or change your device language settin
 
 ## 🌟 App Store Reviews
 
-> *"Finally, a productivity app that doesn't overwhelm me. The limitations actually help me focus better."* - ⭐⭐⭐⭐⭐
-
-> *"Love the lock screen integration. My goals are always visible now."* - ⭐⭐⭐⭐⭐
-
-> *"Clean, simple, effective. This is how productivity apps should be."* - ⭐⭐⭐⭐⭐
-
-[Rate Signal on the App Store](https://apps.apple.com/app/id6749153105?action=write-review) ⭐
+[Rate Signal on the App Store](https://apps.apple.com/us/app/signal-%E8%81%9A%E7%84%A6/id6749153105?action=write-review) ⭐
 
 ## 🔄 Version History
 
@@ -176,7 +170,7 @@ Signal 聚焦 is available on the App Store under standard App Store terms.
   
 **Ready to focus on what matters?**
 
-[![Download Signal](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/app/id6749153105)
+[![Download Signal](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83)](https://apps.apple.com/us/app/signal-%E8%81%9A%E7%84%A6/id6749153105)
 
 *Focus on the signal, not the noise.* 📶
 
